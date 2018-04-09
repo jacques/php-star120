@@ -1,0 +1,22 @@
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         colors="never"
+         debug="true"
+         syntaxCheck="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         bootstrap="./bootstrap.php"
+         verbose="true">
+    <testsuite name="Star120 Test Suite">
+        <directory>./</directory>
+    </testsuite>
+    <logging>
+        <log type="coverage-html" target="../build/coverage"/>
+    </logging>
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="false">
+            <directory suffix=".php">../src/</directory>
+        </whitelist>
+    </filter>
+</phpunit>
