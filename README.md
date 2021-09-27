@@ -5,6 +5,13 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/becc8ebb753ce39c7677/maintainability)](https://codeclimate.com/github/jacques/php-star120/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/becc8ebb753ce39c7677/test_coverage)](https://codeclimate.com/github/jacques/php-star120/test_coverage)
 
+
+---
+
+## AUTHORS
+
+ * Jacques Marneweck <<jacques@siberia.co.za>>
+
 ---
 
 ## LICENSE
