@@ -1,9 +1,9 @@
-<?php
+<?php declare(strict_types=1);
 /**
  * Star120 Debit Order Parsers and Exporters
  *
  * @author    Jacques Marneweck <jacques@siberia.co.za>
- * @copyright 2018 Jacques Marneweck.  All rights reserved.
+ * @copyright 2018-2021 Jacques Marneweck.  All rights reserved.
  */
 
 namespace Jacques\Star120\Parsers;
