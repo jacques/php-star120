@@ -1,13 +1,14 @@
 {
     "name": "jacques/php-star120",
     "require": {
-        "league/csv": "^9.7",
-        "nesbot/carbon": "^2.16"
+        "php": "^8.2",
+        "league/csv": "^9.18",
+        "nesbot/carbon": "^3.8"
     },
     "require-dev": {
-        "brick/varexporter": "^0.3.5",
-        "phpunit/php-invoker": "^3.1",
-        "phpunit/phpunit": "^9.5"
+        "brick/varexporter": "^0.5.0",
+        "phpunit/php-invoker": "^5.0",
+        "phpunit/phpunit": "^11.4"
     },
     "config": {
         "optimize-autoloader": true,
